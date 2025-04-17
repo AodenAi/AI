@@ -1,10 +1,10 @@
 
 {
-  "name": "BWM-XMD-QUANTUM",
+  "name": "𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃",
   "description": "Best WhatsApp bot developed by Ibrahim Adams",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://files.catbox.moe/2kcb4s.jpeg",
-  "repository": "https://github.com/ekitale/maths-project",
+  "logo": "https://files.catbox.moe/qwj08b.jpeg",
+  "repository": "https://github.com/AodenAi/Ai",
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -40,12 +40,12 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃",
       "required": false
     },
     "BOT_IMAGE": {
       "description": "Image URL for your bot menu",
-      "value": "https://files.catbox.moe/h2ydge.jpg",
+      "value": "https://files.catbox.moe/h3vpfn.jpeg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -85,7 +85,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇",
       "required": false
     },
     "SESSION_ID": {
